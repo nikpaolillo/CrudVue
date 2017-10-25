@@ -1,8 +1,8 @@
-## CrudVue
+# CrudVue
 
 CrudVue es un sistema CRUD que estoy creando para aprender Laravel y Vue.
 
-Tecnologías usadas:
+## Tecnologías usadas:
 
 - HTML.
 - CSS, Bulma CSS.
